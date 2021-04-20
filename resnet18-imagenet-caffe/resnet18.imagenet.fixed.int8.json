@@ -1,0 +1,560 @@
+{
+    "data": {
+        "min": 0,
+        "scale": 1.1892666816711426,
+        "max": 0,
+        "offset": 0
+    },
+    "conv1": {
+        "min": 0,
+        "scale": 3.2341785430908203,
+        "max": 0,
+        "offset": 0
+    },
+    "bn_conv1": {
+        "min": 0,
+        "scale": 0.08450381457805634,
+        "max": 0,
+        "offset": 0
+    },
+    "scale_conv1": {
+        "min": 0,
+        "scale": 0.013742976821959019,
+        "max": 0,
+        "offset": 0
+    },
+    "conv1_relu": {
+        "min": 0,
+        "scale": 0.01110321469604969,
+        "max": 0,
+        "offset": 0
+    },
+    "pool1": {
+        "min": 0,
+        "scale": 0.01110321469604969,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a_branch1": {
+        "min": 0,
+        "scale": 0.012019178830087185,
+        "max": 0,
+        "offset": 0
+    },
+    "bn2a_branch1": {
+        "min": 0,
+        "scale": 0.061002664268016815,
+        "max": 0,
+        "offset": 0
+    },
+    "scale2a_branch1": {
+        "min": 0,
+        "scale": 0.014758141711354256,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a_branch2a": {
+        "min": 0,
+        "scale": 0.02327076718211174,
+        "max": 0,
+        "offset": 0
+    },
+    "bn2a_branch2a": {
+        "min": 0,
+        "scale": 0.08873745799064636,
+        "max": 0,
+        "offset": 0
+    },
+    "scale2a_branch2a": {
+        "min": 0,
+        "scale": 0.016751358285546303,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a_branch2a_relu": {
+        "min": 0,
+        "scale": 0.007644027937203646,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a_branch2b": {
+        "min": 0,
+        "scale": 0.005456178914755583,
+        "max": 0,
+        "offset": 0
+    },
+    "bn2a_branch2b": {
+        "min": 0,
+        "scale": 0.06184923276305199,
+        "max": 0,
+        "offset": 0
+    },
+    "scale2a_branch2b": {
+        "min": 0,
+        "scale": 0.011907864362001419,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a": {
+        "min": 0,
+        "scale": 0.021328555420041084,
+        "max": 0,
+        "offset": 0
+    },
+    "res2a_relu": {
+        "min": 0,
+        "scale": 0.012937004677951336,
+        "max": 0,
+        "offset": 0
+    },
+    "res2b_branch2a": {
+        "min": 0,
+        "scale": 0.008842237293720245,
+        "max": 0,
+        "offset": 0
+    },
+    "bn2b_branch2a": {
+        "min": 0,
+        "scale": 0.06632885336875916,
+        "max": 0,
+        "offset": 0
+    },
+    "scale2b_branch2a": {
+        "min": 0,
+        "scale": 0.013004769571125507,
+        "max": 0,
+        "offset": 0
+    },
+    "res2b_branch2a_relu": {
+        "min": 0,
+        "scale": 0.010408575646579266,
+        "max": 0,
+        "offset": 0
+    },
+    "res2b_branch2b": {
+        "min": 0,
+        "scale": 0.005565925035625696,
+        "max": 0,
+        "offset": 0
+    },
+    "bn2b_branch2b": {
+        "min": 0,
+        "scale": 0.06676151603460312,
+        "max": 0,
+        "offset": 0
+    },
+    "scale2b_branch2b": {
+        "min": 0,
+        "scale": 0.014332191087305546,
+        "max": 0,
+        "offset": 0
+    },
+    "res2b": {
+        "min": 0,
+        "scale": 0.018726561218500137,
+        "max": 0,
+        "offset": 0
+    },
+    "res2b_relu": {
+        "min": 0,
+        "scale": 0.01768011413514614,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a_branch1": {
+        "min": 0,
+        "scale": 0.0038696746341884136,
+        "max": 0,
+        "offset": 0
+    },
+    "bn3a_branch1": {
+        "min": 0,
+        "scale": 0.05961655452847481,
+        "max": 0,
+        "offset": 0
+    },
+    "scale3a_branch1": {
+        "min": 0,
+        "scale": 0.007750834804028273,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a_branch2a": {
+        "min": 0,
+        "scale": 0.01073459256440401,
+        "max": 0,
+        "offset": 0
+    },
+    "bn3a_branch2a": {
+        "min": 0,
+        "scale": 0.06199593096971512,
+        "max": 0,
+        "offset": 0
+    },
+    "scale3a_branch2a": {
+        "min": 0,
+        "scale": 0.010862224735319614,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a_branch2a_relu": {
+        "min": 0,
+        "scale": 0.010531185194849968,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a_branch2b": {
+        "min": 0,
+        "scale": 0.005837705917656422,
+        "max": 0,
+        "offset": 0
+    },
+    "bn3a_branch2b": {
+        "min": 0,
+        "scale": 0.06436214596033096,
+        "max": 0,
+        "offset": 0
+    },
+    "scale3a_branch2b": {
+        "min": 0,
+        "scale": 0.01313100103288889,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a": {
+        "min": 0,
+        "scale": 0.014268924482166767,
+        "max": 0,
+        "offset": 0
+    },
+    "res3a_relu": {
+        "min": 0,
+        "scale": 0.015673134475946426,
+        "max": 0,
+        "offset": 0
+    },
+    "res3b_branch2a": {
+        "min": 0,
+        "scale": 0.009041694924235344,
+        "max": 0,
+        "offset": 0
+    },
+    "bn3b_branch2a": {
+        "min": 0,
+        "scale": 0.06510333716869354,
+        "max": 0,
+        "offset": 0
+    },
+    "scale3b_branch2a": {
+        "min": 0,
+        "scale": 0.010803832672536373,
+        "max": 0,
+        "offset": 0
+    },
+    "res3b_branch2a_relu": {
+        "min": 0,
+        "scale": 0.009192797355353832,
+        "max": 0,
+        "offset": 0
+    },
+    "res3b_branch2b": {
+        "min": 0,
+        "scale": 0.0040937624871730804,
+        "max": 0,
+        "offset": 0
+    },
+    "bn3b_branch2b": {
+        "min": 0,
+        "scale": 0.07248858362436295,
+        "max": 0,
+        "offset": 0
+    },
+    "scale3b_branch2b": {
+        "min": 0,
+        "scale": 0.011424374766647816,
+        "max": 0,
+        "offset": 0
+    },
+    "res3b": {
+        "min": 0,
+        "scale": 0.013841875828802586,
+        "max": 0,
+        "offset": 0
+    },
+    "res3b_relu": {
+        "min": 0,
+        "scale": 0.011075661517679691,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a_branch1": {
+        "min": 0,
+        "scale": 0.0024474975652992725,
+        "max": 0,
+        "offset": 0
+    },
+    "bn4a_branch1": {
+        "min": 0,
+        "scale": 0.06313502788543701,
+        "max": 0,
+        "offset": 0
+    },
+    "scale4a_branch1": {
+        "min": 0,
+        "scale": 0.004685244522988796,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a_branch2a": {
+        "min": 0,
+        "scale": 0.009273804724216461,
+        "max": 0,
+        "offset": 0
+    },
+    "bn4a_branch2a": {
+        "min": 0,
+        "scale": 0.06369286775588989,
+        "max": 0,
+        "offset": 0
+    },
+    "scale4a_branch2a": {
+        "min": 0,
+        "scale": 0.010461630299687386,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a_branch2a_relu": {
+        "min": 0,
+        "scale": 0.009479247964918613,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a_branch2b": {
+        "min": 0,
+        "scale": 0.005235613323748112,
+        "max": 0,
+        "offset": 0
+    },
+    "bn4a_branch2b": {
+        "min": 0,
+        "scale": 0.06658639013767242,
+        "max": 0,
+        "offset": 0
+    },
+    "scale4a_branch2b": {
+        "min": 0,
+        "scale": 0.011528165079653263,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a": {
+        "min": 0,
+        "scale": 0.012568245641887188,
+        "max": 0,
+        "offset": 0
+    },
+    "res4a_relu": {
+        "min": 0,
+        "scale": 0.01390455849468708,
+        "max": 0,
+        "offset": 0
+    },
+    "res4b_branch2a": {
+        "min": 0,
+        "scale": 0.006719340570271015,
+        "max": 0,
+        "offset": 0
+    },
+    "bn4b_branch2a": {
+        "min": 0,
+        "scale": 0.05780891329050064,
+        "max": 0,
+        "offset": 0
+    },
+    "scale4b_branch2a": {
+        "min": 0,
+        "scale": 0.010543365962803364,
+        "max": 0,
+        "offset": 0
+    },
+    "res4b_branch2a_relu": {
+        "min": 0,
+        "scale": 0.008158466778695583,
+        "max": 0,
+        "offset": 0
+    },
+    "res4b_branch2b": {
+        "min": 0,
+        "scale": 0.0034703193232417107,
+        "max": 0,
+        "offset": 0
+    },
+    "bn4b_branch2b": {
+        "min": 0,
+        "scale": 0.06518524885177612,
+        "max": 0,
+        "offset": 0
+    },
+    "scale4b_branch2b": {
+        "min": 0,
+        "scale": 0.013417244888842106,
+        "max": 0,
+        "offset": 0
+    },
+    "res4b": {
+        "min": 0,
+        "scale": 0.014318563044071198,
+        "max": 0,
+        "offset": 0
+    },
+    "res4b_relu": {
+        "min": 0,
+        "scale": 0.013472635298967361,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a_branch1": {
+        "min": 0,
+        "scale": 0.001597619499079883,
+        "max": 0,
+        "offset": 0
+    },
+    "bn5a_branch1": {
+        "min": 0,
+        "scale": 0.05619105324149132,
+        "max": 0,
+        "offset": 0
+    },
+    "scale5a_branch1": {
+        "min": 0,
+        "scale": 0.005224305670708418,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a_branch2a": {
+        "min": 0,
+        "scale": 0.005808249581605196,
+        "max": 0,
+        "offset": 0
+    },
+    "bn5a_branch2a": {
+        "min": 0,
+        "scale": 0.06349050253629684,
+        "max": 0,
+        "offset": 0
+    },
+    "scale5a_branch2a": {
+        "min": 0,
+        "scale": 0.010597954504191875,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a_branch2a_relu": {
+        "min": 0,
+        "scale": 0.00878205057233572,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a_branch2b": {
+        "min": 0,
+        "scale": 0.003138426225632429,
+        "max": 0,
+        "offset": 0
+    },
+    "bn5a_branch2b": {
+        "min": 0,
+        "scale": 0.06112512946128845,
+        "max": 0,
+        "offset": 0
+    },
+    "scale5a_branch2b": {
+        "min": 0,
+        "scale": 0.013303706422448158,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a": {
+        "min": 0,
+        "scale": 0.015276489779353142,
+        "max": 0,
+        "offset": 0
+    },
+    "res5a_relu": {
+        "min": 0,
+        "scale": 0.01428091898560524,
+        "max": 0,
+        "offset": 0
+    },
+    "res5b_branch2a": {
+        "min": 0,
+        "scale": 0.007149415090680122,
+        "max": 0,
+        "offset": 0
+    },
+    "bn5b_branch2a": {
+        "min": 0,
+        "scale": 0.0669548511505127,
+        "max": 0,
+        "offset": 0
+    },
+    "scale5b_branch2a": {
+        "min": 0,
+        "scale": 0.012544780969619751,
+        "max": 0,
+        "offset": 0
+    },
+    "res5b_branch2a_relu": {
+        "min": 0,
+        "scale": 0.006134262308478355,
+        "max": 0,
+        "offset": 0
+    },
+    "res5b_branch2b": {
+        "min": 0,
+        "scale": 0.0018794259522110224,
+        "max": 0,
+        "offset": 0
+    },
+    "bn5b_branch2b": {
+        "min": 0,
+        "scale": 0.10803655534982681,
+        "max": 0,
+        "offset": 0
+    },
+    "scale5b_branch2b": {
+        "min": 0,
+        "scale": 0.13267207145690918,
+        "max": 0,
+        "offset": 0
+    },
+    "res5b": {
+        "min": 0,
+        "scale": 0.12892672419548035,
+        "max": 0,
+        "offset": 0
+    },
+    "res5b_relu": {
+        "min": 0,
+        "scale": 0.15168696641921997,
+        "max": 0,
+        "offset": 0
+    },
+    "pool5": {
+        "min": 0,
+        "scale": 0.15168696641921997,
+        "max": 0,
+        "offset": 0
+    },
+    "fc1000": {
+        "min": 0,
+        "scale": 0.15579833090305328,
+        "max": 0,
+        "offset": 0
+    },
+    "prob": {
+        "min": 0,
+        "scale": 0.0015570825198665261,
+        "max": 0,
+        "offset": 0
+    }
+}

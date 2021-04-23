@@ -1,0 +1,87 @@
+TRT-7202-EntropyCalibration2
+data: 3f801830
+(Unnamed Layer* 0) [Convolution]_output: 40fe37bd
+(Unnamed Layer* 1) [Scale]_output: 3d6fd76b
+(Unnamed Layer* 2) [Scale]_output: 3d809e30
+first_conv: 3d8107a9
+(Unnamed Layer* 4) [Convolution]_output: 3e45d582
+(Unnamed Layer* 5) [Scale]_output: 3d82ce18
+(Unnamed Layer* 6) [Scale]_output: 3d5735e4
+group0_block0_conv0: 3d419117
+(Unnamed Layer* 8) [Convolution]_output: 3de3af51
+(Unnamed Layer* 9) [Scale]_output: 3d72488d
+group0_block0_conv1: 3d53043f
+(Unnamed Layer* 11) [ElementWise]_output: 3dabba12
+group0_block0_sum: 3db21ceb
+(Unnamed Layer* 13) [Convolution]_output: 3e596f6e
+(Unnamed Layer* 14) [Scale]_output: 3d677738
+(Unnamed Layer* 15) [Scale]_output: 3d1f8ef5
+group0_block1_conv0: 3ce91c77
+(Unnamed Layer* 17) [Convolution]_output: 3d6781ba
+(Unnamed Layer* 18) [Scale]_output: 3d4ed580
+group0_block1_conv1: 3d12190a
+(Unnamed Layer* 20) [ElementWise]_output: 3dbbd25e
+group0_block1_sum: 3dc5edfe
+(Unnamed Layer* 22) [Convolution]_output: 3eac5d13
+(Unnamed Layer* 23) [Scale]_output: 3d4eca22
+(Unnamed Layer* 24) [Scale]_output: 3d3c4cbe
+group0_block2_conv0: 3d0ce174
+(Unnamed Layer* 26) [Convolution]_output: 3d8d912a
+(Unnamed Layer* 27) [Scale]_output: 3d6abab9
+group0_block2_conv1: 3d3ff1b9
+(Unnamed Layer* 29) [ElementWise]_output: 3dc460fa
+group0_block2_sum: 3dce46d8
+(Unnamed Layer* 31) [Convolution]_output: 3e8216a6
+(Unnamed Layer* 32) [Scale]_output: 3d4f0a96
+(Unnamed Layer* 33) [Scale]_output: 3d2c7a81
+group1_block0_conv0: 3d2698d6
+(Unnamed Layer* 35) [Convolution]_output: 3ddb6113
+(Unnamed Layer* 36) [Scale]_output: 3d4f1ab5
+group1_block0_conv1: 3d5a305b
+(Unnamed Layer* 38) [Convolution]_output: 3de1a5ef
+(Unnamed Layer* 39) [Scale]_output: 3d61b4a0
+group1_block0_proj: 3d3429c9
+(Unnamed Layer* 41) [ElementWise]_output: 3d9ef588
+group1_block0_sum: 3d9ef588
+(Unnamed Layer* 43) [Convolution]_output: 3e2dc74e
+(Unnamed Layer* 44) [Scale]_output: 3d39afe0
+(Unnamed Layer* 45) [Scale]_output: 3d245889
+group1_block1_conv0: 3cf80837
+(Unnamed Layer* 47) [Convolution]_output: 3d84f0fb
+(Unnamed Layer* 48) [Scale]_output: 3d44543f
+group1_block1_conv1: 3d1bd903
+(Unnamed Layer* 50) [ElementWise]_output: 3da2763b
+group1_block1_sum: 3da32ec5
+(Unnamed Layer* 52) [Convolution]_output: 3e345d89
+(Unnamed Layer* 53) [Scale]_output: 3d40cd8e
+(Unnamed Layer* 54) [Scale]_output: 3d13df21
+group1_block2_conv0: 3cf2bd62
+(Unnamed Layer* 56) [Convolution]_output: 3d4095e8
+(Unnamed Layer* 57) [Scale]_output: 3d5411b4
+group1_block2_conv1: 3d13897d
+(Unnamed Layer* 59) [ElementWise]_output: 3d96b544
+group1_block2_sum: 3da74224
+(Unnamed Layer* 61) [Convolution]_output: 3e28e371
+(Unnamed Layer* 62) [Scale]_output: 3d382813
+(Unnamed Layer* 63) [Scale]_output: 3d1c70cf
+group2_block0_conv0: 3d12799b
+(Unnamed Layer* 65) [Convolution]_output: 3d99a44b
+(Unnamed Layer* 66) [Scale]_output: 3d3b64b0
+group2_block0_conv1: 3d370978
+(Unnamed Layer* 68) [Convolution]_output: 3d875f70
+(Unnamed Layer* 69) [Scale]_output: 3d4bc0ee
+group2_block0_proj: 3cd46429
+(Unnamed Layer* 71) [ElementWise]_output: 3d579222
+group2_block0_sum: 3d49e690
+(Unnamed Layer* 73) [Convolution]_output: 3db6c2ae
+(Unnamed Layer* 74) [Scale]_output: 3d4c8aff
+(Unnamed Layer* 75) [Scale]_output: 3d32126e
+group2_block1_conv0: 3d0f0388
+(Unnamed Layer* 77) [Convolution]_output: 3d113518
+(Unnamed Layer* 78) [Scale]_output: 3d831561
+group2_block1_conv1: 3de62d46
+(Unnamed Layer* 80) [ElementWise]_output: 3e02607e
+group2_block1_sum: 3e0885ed
+global_avg_pool: 3e0885ed
+fc: 3eab737c
+softmax: 3c01f3e7
